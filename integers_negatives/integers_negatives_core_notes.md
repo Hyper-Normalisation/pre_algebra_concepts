@@ -50,8 +50,78 @@ are the same sign so we add them together, and then keep the sign of the larger 
 we take that total which is 23, and subtract that from 20, which gives us 3. Simple. Then after that we take 3 + (-3), and
 cause one is positive and one is negative we subtract them together and get a total of 0.
 
+---------------------------------------------------------
 
-3. (-2 ) x (-3) x 5 x (-1)
+Homework Session #1
+
+# 📚 Homework — Integers & Negatives Mastery
+
+Do these without a calculator. Show your steps.  
+
+---
+
+## Part A: Addition & Subtraction
+1. -15 + 22  
+2. 45 - (-17)  
+3. -50 + (-25)  
+4. 90 - 135  
+5. -7 - (-19)  
+
+---
+
+## Part B: Multiplication & Division
+6. (-3)(-8)  
+7. (-12)(5)  
+8. (-2)(-4)(-6)  
+9. (-100) ÷ 20  
+10. (-6)(-2)(-5)(-1)  
+
+---
+
+## Part C: Absolute Value
+11. |-18|  
+12. |12 - 19|  
+13. |-30| - |15|  
+14. |-7 + 2|  
+15. -|-11|  
+
+---
+
+## Part D: Order of Operations
+16. 2^3 + (-2)^3  
+17. -(-4) + |6 - 10|  
+18. 5 - [3 - (-2)]  
+19. -3^2 + (-3)^2  
+20. -2[6 - (-3)] + 4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
