@@ -66,11 +66,45 @@
 
 
 
+Additional Notes:
+
+- Greatest Common Factor:
+- Definition: Largest number that divides evenly into both numbers.
+
+Method 1: Listing Factors:
+- Example: GCF of 18 and 24
+	- Factors of 18 = 1,2,3,6,9,18
+	- Factors of 24 = 1,2,3,4,,6,8,12,24\
+	- Common Factors: 1,2,3,6 -> GCF = 6
+
+Method 2: Prime Factorization:
+- Break each number into primes:
+	-18 = 2 x 3 x 3
+	- 24 = 2 x 2 x 2 x 3
+	- Take common primes: 2 x 3 = 6
 
 
 
+- Least Common Denominator:
+
+Method 1: Listing Multiples:
+	- Examples: LCD of 4 and 6
+		- Multiples of 4 = 4,8,12,16,20....
+		- Multiples of 6 = 6,12,18,24....
+		- Smallest common multiple = 12 -> LCD = 12
+
+Method 2: Using Prime Factorization:
+	- Denominators: 4 and 6
+		- 4 = 2x2
+		- 6 = 2x3
+		- Take all prime factors at their highest power:
+			- 2^2 x 3 = 12 -> LCD = 12
 
 
+
+Quick Tricks to Remember:
+GCF -> What can I divide top and bottom by?
+LCD -> What number do both denominators fit into?
 
 
 
